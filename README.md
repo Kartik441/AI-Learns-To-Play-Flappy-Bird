@@ -5,3 +5,6 @@ Uses NEAT Genetic Algorithm
 
 ![PlayMode](https://user-images.githubusercontent.com/71379766/98381421-dd3aa980-206f-11eb-8005-9c05fafc1510.png)
 
+![PlayMode2](https://user-images.githubusercontent.com/71379766/98382753-99e13a80-2071-11eb-8583-da10cdbc2835.png)
+
+
